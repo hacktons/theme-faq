@@ -77,8 +77,8 @@
 
     {% block faq_footer %}
     <div class="faq-page-footer">
-        <a href="{{ GITBOOK_LINK_URL }}" target="_blank">{{ "GITBOOK_LINK"|t }}</a> ·
-        <span>Last edit {{ file.mtime|date('MMMM Do YYYY') }}</span>
+        <a href="{{ "GITBOOK_LINK_URL"|t }}" target="_blank">{{ "GITBOOK_LINK"|t }}</a> ·
+        <span>{{ "EIDT_TIME"|t }} {{ file.mtime|date('YYYY-MM-DD HH:ss') }}</span>
     </div>
     {% endblock %}
 {% endblock %}
