@@ -3,6 +3,7 @@
     "FAQ_RELATED_ARTICLES": "Related Articles",
     "FAQ_TITLE": "FAQ",
     "GITBOOK_LINK": "Published with GitBook",
+    "GITBOOK_LINK_URL": "https://www.gitbook.com",
     "SEARCH_PLACEHOLDER": "Have a question? Ask or enter a search term here.",
     "SEARCH_RESULTS_TITLE": "<span class='search-results-count'></span> results for \"<span class='search-query'></span>\"",
     "SEARCH_NO_RESULTS_TITLE": "No results matching \"<span class='search-query'></span>\""
