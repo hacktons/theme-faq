@@ -27,4 +27,5 @@ node_modules
 # vim swapfile
 *.swp
 
-_assets
+# keep assets since we are not going to publish to npm
+#_assets
